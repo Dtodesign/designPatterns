@@ -1,4 +1,1 @@
 
-# designPatterns
->>>>>>> FirstCommit
->>>>>>> First
