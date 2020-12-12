@@ -26,7 +26,7 @@ namespace DesignPatternProject_inlämning
         public override void Execute(List<Album> order, Album newAlbum)
         {
             order.Remove(order.Where(x => x.Name == newAlbum.Name).First());
-            Console.WriteLine("------  Undo Command ------\n");
+            Console.WriteLine("------  UNDO Command ------\n");
             Console.WriteLine("Album With The Name: {0} Has Been Deleted From The List!\n",newAlbum.Name);
             Console.WriteLine("\n");
         }
@@ -37,6 +37,7 @@ namespace DesignPatternProject_inlämning
         public override void Execute(List<Album> order, Album newAlbum)
         {
             order.Add(newAlbum);
+            Console.WriteLine("------  REDO Command ------\n");
             Console.WriteLine("Order With AlbumName {0} Has Been Processed!\n", newAlbum.Name);
             newAlbum.ShowAlbumDetails();
 

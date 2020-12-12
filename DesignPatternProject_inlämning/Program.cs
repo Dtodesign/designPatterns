@@ -23,7 +23,7 @@ namespace DesignPatternProject_inlämning
             
 
             rec1.Order();
-            rec1.CheckOrder(new Album("TEST", "TEST", 2, 11.11));
+            rec1.CheckOrder(new Album("TTT", "TEST", 2, 11.11));
             rec1.ExecuteCommand();
 
            
@@ -33,13 +33,13 @@ namespace DesignPatternProject_inlämning
             rec1.CheckOrder(new Album("KOKO", "POPO", 10, 23.23));
             rec1.ExecuteCommand();
 
-            
 
 
             rec1.UndoOrder();
             rec1.ExecuteCommand();
             Console.WriteLine("----- Orders In Process After Undo Command -----");
             rec1.DisplayOrders();
+
 
 
             rec1.RedoOrder();
@@ -54,7 +54,7 @@ namespace DesignPatternProject_inlämning
             RecordLabel rc2 = new RecordLabel("RecordLabel2");
 
             MusicStore store2 = new MusicStore("Store2");
-            MusicStore store3 = new MusicStore("Store2");
+            MusicStore store3 = new MusicStore("Store3");
 
             store2.Subscribe(rc2);
             store3.Subscribe(rc2);
