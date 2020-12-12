@@ -11,8 +11,6 @@ namespace DesignPatternProject_inlämning
 
             MusicStore store1 = new MusicStore("Store1");
 
-            
-
             store1.Subscribe(rec1);
 
             rec1.Display("KOKO", "POPO", 23.23);
@@ -50,6 +48,7 @@ namespace DesignPatternProject_inlämning
 
             Console.WriteLine("----- Orders In Process  After Redo Command -----");
             rec1.DisplayOrders();
+
 
 
             RecordLabel rc2 = new RecordLabel("RecordLabel2");
