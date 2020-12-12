@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Design Patterns InlämningUppgift
 ![DesignPatternImage](https://www.syncfusion.com/blogs/wp-content/uploads/2019/08/Tile-1.jpg)
 
@@ -76,4 +77,6 @@ It  is a behavioral design pattern that lets you define a subscription mechanism
 
 
 
+=======
+>>>>>>> master
 
