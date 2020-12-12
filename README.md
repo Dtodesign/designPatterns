@@ -10,7 +10,8 @@
 * [Types of Design Patterns](#types-of-design-patterns)
 * [Command Pattern](#command-pattern)
 * [Observer Pattern](#observer-pattern)
-* [DIP](#dip)
+* [Dependency Inversion Principle Definition](#dependency-inversion-principle-definition)
+* [References](#references)
 
 
 ### Introduction
