@@ -53,21 +53,37 @@ It  is a behavioral design pattern that lets you define a subscription mechanism
 ### References
 
 [refactoring.guru -- Design Patterns in C#](https://refactoring.guru/design-patterns/csharp)
+
 [dofactory.com -- Design Patterns](https://www.dofactory.com/net/design-patterns)
+
 [dofactory.com -- Command Pattern](https://www.dofactory.com/net/command-design-pattern)
+
 [How To Implement Command Pattern In C#](https://www.infoworld.com/article/3409800/how-to-use-the-command-design-pattern-in-c.html)
+
 [refactoring.guru -- Command Pattern](https://refactoring.guru/design-patterns/command/csharp/example)
+
 [Understanding and Implementing Command Pattern in C#](https://www.codeproject.com/Articles/339390/Understanding-and-Implementing-Command-Pattern-in)
+
 [docs.microsoft.com -- Observer Pattern](https://docs.microsoft.com/en-us/dotnet/standard/events/observer-design-pattern)
+
 [refactoring.guru -- Observer Pattern](https://refactoring.guru/design-patterns/observer)
+
 [Understanding and Implementing Observer Pattern in C#](https://www.codeproject.com/Articles/328361/Understanding-and-Implementing-Observer-Pattern-in)
+
 [medium.com -- Design patterns: Observer](https://medium.com/@sawomirkowalski/design-patterns-observer-5832ad7e0ddf)
+
 [docs.microsoft.com -- IObservable Interface](https://docs.microsoft.com/en-us/dotnet/api/system.iobservable-1?view=net-5.0)
+
 [Udemy -- Design Patterns in C# and .NET](https://www.udemy.com/course/design-patterns-csharp-dotnet/)
+
 [youtube.com -- Command Pattern](https://www.youtube.com/watch?v=9qA5kw8dcSU&ab_channel=ChristopherOkhravi)
+
 [youtube.com -- Observer Pattern](https://www.youtube.com/watch?v=_BpmfnqjgzQ&ab_channel=ChristopherOkhravi)
+
 [SOLID Principle with C#](https://www.codeproject.com/Tips/1033646/SOLID-Principle-with-Csharp-Example)
+
 [medium.com -- SOLID Design principles C#](https://medium.com/@mirzafarrukh13/solid-design-principles-c-de157c500425)
+
 [c-sharpcorner.com -- SOLID Principles In C#](https://www.c-sharpcorner.com/UploadFile/damubetha/solid-principles-in-C-Sharp)
 
 
