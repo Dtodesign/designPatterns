@@ -7,9 +7,9 @@
 
 ###  Table of contents
 * [Introduction](#introduction)
-* [Technologies](#technologies)
-* [Types of Design Patterns](#type-of-design-patterns)
+* [Types of Design Patterns](#types-of-design-patterns)
 * [Command Pattern](#command-pattern)
+* [Observer Pattern](#observer-pattern)
 * [DIP](#dip)
 
 
